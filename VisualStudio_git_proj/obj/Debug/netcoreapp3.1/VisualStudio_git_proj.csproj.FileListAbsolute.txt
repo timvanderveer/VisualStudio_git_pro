@@ -1,0 +1,13 @@
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\bin\Debug\netcoreapp3.1\VisualStudio_git_proj.exe
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\bin\Debug\netcoreapp3.1\VisualStudio_git_proj.deps.json
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\bin\Debug\netcoreapp3.1\VisualStudio_git_proj.runtimeconfig.json
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\bin\Debug\netcoreapp3.1\VisualStudio_git_proj.runtimeconfig.dev.json
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\bin\Debug\netcoreapp3.1\VisualStudio_git_proj.dll
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\bin\Debug\netcoreapp3.1\VisualStudio_git_proj.pdb
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\obj\Debug\netcoreapp3.1\VisualStudio_git_proj.csprojAssemblyReference.cache
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\obj\Debug\netcoreapp3.1\VisualStudio_git_proj.AssemblyInfoInputs.cache
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\obj\Debug\netcoreapp3.1\VisualStudio_git_proj.AssemblyInfo.cs
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\obj\Debug\netcoreapp3.1\VisualStudio_git_proj.csproj.CoreCompileInputs.cache
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\obj\Debug\netcoreapp3.1\VisualStudio_git_proj.dll
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\obj\Debug\netcoreapp3.1\VisualStudio_git_proj.pdb
+C:\Users\timv\source\repos\VisualStudio_git_proj\VisualStudio_git_proj\obj\Debug\netcoreapp3.1\VisualStudio_git_proj.genruntimeconfig.cache
